@@ -1,3 +1,5 @@
+body {background-color: #e3f2fd;;}
+
 #window{
     margin-top: 50px;
     background-color: #000;
@@ -40,3 +42,18 @@
     background-color: #e4e4e4;
     cursor: pointer;
 }
+
+.mainInfo {
+    padding: 170px 0;
+    text-align: center;
+}
+.button {
+    font: bold 21px Arial;
+    text-decoration: none;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 5px solid #CCCCCC;
+    border-right: 5px solid #333333;
+    border-bottom: 5px solid #333333;
+    border-left: 5px solid #CCCCCC;
+  }
